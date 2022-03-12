@@ -1,9 +1,9 @@
 {
-    "server":"127.0.0.1",
+    "server":"https://shadowsocks-app-server.herokuapp.com",
     "server_port":8388,
     "local_port":1080,
     "local_address":"127.0.0.1",
-    "password":"barfoo!",
+    "password":"2h8BBIIgtDnIo157plt",
     "method": "aes-128-cfb",
     "timeout":600
 }
